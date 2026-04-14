@@ -18,6 +18,11 @@ Automação em Excel VBA para:
 - Identificação automática do próximo espaço livre
 - Geração de texto pronto para Sienge
 
+## Módulos
+
+- LancamentoSimples.bas → Lançamento unitário
+- LancamentoMultiplo.bas → Lançamento de múltiplos itens por pedido com consolidação por macro
+
 ## Autor
 
 Vinicius Fabbri
